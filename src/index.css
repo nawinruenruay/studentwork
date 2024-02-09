@@ -1,0 +1,23 @@
+* {
+  font-family: "Sarabun", sans-serif !important;
+}
+
+th {
+  font-weight: bold !important;
+  text-align: center !important;
+}
+
+td {
+  text-align: center !important;
+}
+
+/* a {
+  color: var(--_nav-link-color) !important;
+  text-decoration: none !important;
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--_nav-link-color) !important;
+  text-decoration: none !important;
+} */
